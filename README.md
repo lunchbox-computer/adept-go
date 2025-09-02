@@ -1,21 +1,22 @@
 # Adept Go
 A travel friendly [Ploopy Adept](https://ploopy.co/adept-trackball/).
 
-![IMG_4499](https://github.com/user-attachments/assets/42b586d0-a0a7-49c8-a175-22168ff3a23d)
+![IMG_4499](https://github.com/user-attachments/assets/73c025d7-8b90-48a8-b27c-0bb373899118)
+-a175-22168ff3a23d)
 
 ## What is it?
 The Adept Go is a travel friendly case mod for the Ploopy Adept. It is thin, light weight, and takes up very little space in your bag. There is both a standard and [adeptBLE](https://github.com/taichan1113/AdeptBLE) friendly variant.
 
 this project started as a BLE revision of the [Small Mod](https://github.com/adept-anyball/ploopy-adept-small-btu) but quickly snowballed into it's own thing.
 
-<img width="1053" height="679" alt="Screenshot 2025-09-02 at 2 36 04 PM" src="https://github.com/user-attachments/assets/43d1dc47-00cb-4f2e-b7aa-d48fceaeec4c" />
+<img width="1053" height="679" alt="Screenshot 2025-09-02 at 2 36 04 PM" src="https://github.com/user-attachments/assets/3e51c635-b833-46bf-b47e-e0c32259e998" />
 
 ## Modular design & 100% 3D printed
 The bowl is designed to be printed separately and can be swapped out without disassembling the whole body.
 
 Each part can be printed without supports and the only additional hardware needed are the 4 assembly screws.
 
-<img width="1080" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/aedb6fc0-495a-444d-b35d-04023b9e3ffc" />
+<img width="1080" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/2e5e53bd-414b-4fd2-9243-3eb103e3dca2" />
 
 ### Nano (34mm - 38mm)
 the Nano variant is designed for a 34-38mm ball, similar to the actual Ploopy Nano. 
